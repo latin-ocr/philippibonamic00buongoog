@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philippibonamic00buongoog_0326.png"; bbox 0 0 3024 4574; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 373 1120 933 1298">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 373 1120 933 1298">
+     <span class='ocr_line' id='line_1_1' title="bbox 373 1120 933 1298; baseline 0.004 -19"><span class='ocrx_word' id='word_1_1' title='bbox 373 1120 829 1298; x_wconf 61' lang='lat' dir='ltr'>mmmmm</span> <span class='ocrx_word' id='word_1_2' title='bbox 929 1272 933 1281; x_wconf 91' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 285 1410 1037 1652">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 285 1410 1037 1652">
+     <span class='ocr_line' id='line_1_2' title="bbox 285 1410 1037 1529; baseline -0.003 -31"><span class='ocrx_word' id='word_1_3' title='bbox 285 1413 326 1498; x_wconf 90' lang='lat' dir='ltr'><strong>Si</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 341 1410 548 1503; x_wconf 83' lang='lat' dir='ltr'>videbitur</span> <span class='ocrx_word' id='word_1_5' title='bbox 556 1413 1037 1529; x_wconf 70' lang='lat' dir='ltr'><strong>Reverendiss.Pat.Mng.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 342 1532 802 1652; baseline 0.007 -33"><span class='ocrx_word' id='word_1_6' title='bbox 342 1536 430 1622; x_wconf 68' lang='lat' dir='ltr'><strong>Suc.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 448 1532 802 1652; x_wconf 68' lang='lat' dir='ltr'>1³21.Apostolici.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 341 1677 1038 1853">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 341 1677 1038 1853">
+     <span class='ocr_line' id='line_1_4' title="bbox 341 1677 1038 1853; baseline 0.006 -31"><span class='ocrx_word' id='word_1_8' title='bbox 341 1737 458 1822; x_wconf 59' lang='lat' dir='ltr'><strong>EM.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 485 1677 1038 1853; x_wconf 63' lang='lat' dir='ltr'><strong>deRubeisPam&#39;arcbaCoffl.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 285 2479 1123 2752">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 285 2479 1123 2752">
+     <span class='ocr_line' id='line_1_5' title="bbox 285 2479 1123 2604; baseline 0.001 -9"><span class='ocrx_word' id='word_1_10' title='bbox 285 2507 1040 2604; x_wconf 65' lang='lat' dir='ltr'><strong>Mine-ElemOrd.Praed·Reveren-</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1121 2479 1123 2482; x_wconf 27' lang='lat'>⁵</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 342 2627 1078 2752; baseline 0.007 -34"><span class='ocrx_word' id='word_1_12' title='bbox 342 2627 434 2735; x_wconf 34' lang='lat' dir='ltr'>diss&amp;</span> <span class='ocrx_word' id='word_1_13' title='bbox 449 2627 1038 2752; x_wconf 75' lang='lat' dir='ltr'><strong>P.Mag.sac.1³al.Ap0st.soe.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1075 2731 1078 2735; x_wconf 59' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1516 4574">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1516 4574">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1516 4574; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1516 4574; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
